@@ -1,0 +1,17 @@
+{
+  "name": "命運羅盤",
+  "short_name": "命運羅盤",
+  "lang": "zh-Hant",
+  "description": "命運羅盤:紫微斗數、八字、西洋占星、人類圖四系統排盤,每日籤信運勢。",
+  "start_url": "/destiny-compass-web/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
